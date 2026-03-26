@@ -29,7 +29,7 @@
 - HTML, CSS, JavaScript  
 
 📊 Data Analytics  
-- Excel, Power BI  
+- Excel, SQL, Power BI  
 
 🤖 Learning  
 - Machine Learning  
