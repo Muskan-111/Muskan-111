@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f9b0f,100:00ff9f&height=250&section=header&text=Muskan%20Sharma&fontSize=45&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20Web%20Dev%20%7C%20Data%20Analytics%20%7C%20ML&descAlignY=60&descSize=18"/>
 </p>
-<h1 align="center">Hi 👋, I'm Muskan</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Analytics+Enthusiast;SQL+Learner;Machine+Learning+Learner" />
