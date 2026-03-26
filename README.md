@@ -1,60 +1,66 @@
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">Aspiring Data Analyst & Machine Learning Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;Data+Analytics+Enthusiast;SQL+Learner;Machine+Learning+Learner" />
+</p>
 
 ---
 
-🌟 About Me  
-- 💻 Interested in Web Development & Data Analytics  
-- 📊 Skilled in Excel & Power BI  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+### 👩‍💻 About Me  
+- 💻 I love building websites and working with data  
+- 📊 Skilled in Excel, Power BI & SQL  
 - 🤖 Currently learning Machine Learning  
-- 🌐 Love building real-world projects  
+- 🌐 Worked on real-world projects  
 
 ---
 
-🚀 Projects  
+### 🚀 Projects  
 
-🔹 Email Spam Detection  
-- Machine Learning project to classify spam emails  
-- Used basic ML concepts and data processing  
+🔹 **Email Spam Detection**  
+- ML model to classify spam emails  
+- Data preprocessing & classification  
 
-🔹 Sangwan Medical Shop Website  
-- Worked on frontend (HTML, CSS, JS)  
-- Helped in improving UI and features  
-
----
-
-🛠️ Skills  
-
-💻 Web Development  
-- HTML, CSS, JavaScript  
-
-📊 Data Analytics  
-- Excel, SQL, Power BI  
-
-🤖 Learning  
-- Machine Learning  
+🔹 **Sangwan Medical Shop Website**  
+- Frontend development using HTML, CSS, JS  
+- Improved UI & user experience  
 
 ---
 
-📈 Currently Learning  
-- Python for Data Analysis  
-- Machine Learning  
+### 🛠️ Skills  
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"/>
+</p>
 
 ---
 
-✨ "Always learning, always growing"
+### 📊 GitHub Stats  
 
-<!--
-**Muskan-111/Muskan-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Quote  
+_"Always learning, always growing 🚀"_
